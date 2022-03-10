@@ -1,0 +1,28 @@
+[
+  {
+    "firstName": "Anderson",
+    "lastName": "Gomes",
+    "adress": "Rua sem nome, 33",
+    "emailAdress": "testes@gmail.com",
+    "radioGender": "m",
+    "checks": ["Netflix", "Dormir"],
+    "selectCountries": "Dinamarca",
+    "selectYears": "1991",
+    "selectMonths": "Julho",
+    "pwd": "Alunos@2022"
+  },
+
+  {
+    "firstName": "Daniele",
+    "lastName": "Lemos",
+    "adress": "Rua sem nome, 33",
+    "emailAdress": "dani@gmail.com",
+    "radioGender": "f",
+    "checks": ["Netflix", "Dormir"],
+    "selectCountries": "Dinamarca",
+    "selectYears": "1993",
+    "selectMonths": "Março",
+    "pwd": "Alunos@2022"
+  }
+
+]
